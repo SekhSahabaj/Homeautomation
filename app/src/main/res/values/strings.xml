@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">HomeAutomation</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="About">Info</string>
+    <string name="creator">Created and developed by Sk Sahabaj</string>
+    <string name="version">Version: 2.9</string>
+    <string name="btntextoff">OFF</string>
+    <string name="btntexton">ON</string>
+    <string name="btncancel">Cancel</string>
+    <string name="Spd">Speed</string>
+    <string name="Nightmodeswitch">Enable Night Mode</string>
+    <string name="title_activity_led_control">ledControl</string>
+
+    <string name="title_activity_infoactivity">infoactivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>ring>
+    <string-array name="spinner_items">
+        <item><b>Select Night Mode</b></item>
+        <item>YES</item>
+        <item>NO</item>
+        <item>AUTO</item>
+    </string-array>
+</resources>
