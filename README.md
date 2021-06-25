@@ -2,7 +2,7 @@
 This is a app project for homeautomation can control 2 lights, 1 fan with speed control, and 1 plug outlet & can be modified for users suitable needs.
 
 # Features
-All the appliances can be turn on/off and also differnt times can be set for on/off. Has night mode which can be set to auto/on/off. Fan speed can be adjust manually.
+All the appliances can be turn on/off and also differnt times can be set for on/off. Has night mode which can be set to auto/on/off. Fan speed can be adjust manually. Last position of everything is saved in the EEprom during power cut or during manual shutdown with the help of power detection circuit everything will resume from the last saved positon during a power cycle.
 
 # Parts required
 * Arduino
